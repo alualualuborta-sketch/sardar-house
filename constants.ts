@@ -18,20 +18,4 @@ GSM: 210 (±10)
 Export Quality
 
 Size: M, L, XL
-M - Length: 27, Chest: 38/39
-L - Length: 28, Chest: 40/41
-XL - Length: 29, Chest: 42/43`,
-    category: 'Men',
-    images: ['https://i.postimg.cc/pVcZ0MRk/1770287132-L-1.jpg'],
-    sizes: ['M', 'L', 'XL'],
-    colors: ['Default'],
-    isBestSeller: false,
-    isNewArrival: true
-  },
-
-  {
-    id: '3',
-    name: 'Jorjet Digital Print Three Piece',
-    price: 1050,
-    description: `Fabric Details:
-Body: Jorjet f
+M - Length: 2
