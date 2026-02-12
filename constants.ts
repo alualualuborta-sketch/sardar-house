@@ -8,7 +8,25 @@ export const DELIVERY_FEES = {
   OUTSIDE_DHAKA: 120
 };
 
-export const INITIAL_PRODUCTS: Product[] = [
+export const INITIAL_PRODUCTS: Product[] ={
+  id: '6',
+  name: 'Cotton Long Sleeve Sweet Shirt',
+  price: 500,
+  description: `Fabrics: Cotton
+GSM: 200
+(এগুলো ২০০ GMS এর মোটা টিশার্ট, কেউ সুয়েটার মনে করবেন না,) 
+
+Size: M, L, XL
+M: (chest -38 , length-28 )
+L : ( chest-40 , length-29 )
+XL: ( chest -42 , length-30)`,
+  category: 'Men',
+  images: ['https://i.postimg.cc/0yJ7Xgjc/1729793872-L-4.jpg'],
+  sizes: ['M', 'L', 'XL'],
+  colors: ['Default'],
+  isNewArrival: true
+}
+ [
   {
     id: '1',
     name: 'Royal Silk Panjabi - Midnight Black',
