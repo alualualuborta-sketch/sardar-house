@@ -1,0 +1,7 @@
+{
+  "name": "SARDAR HOUSE - Luxury Fashion",
+  "description": "A premium fashion e-commerce platform for the Bangladesh market featuring a seamless WhatsApp-based ordering system and minimalist luxury design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
